@@ -1,0 +1,17 @@
+[
+	{
+		"category": "On order",
+		"name": "Custom motorcycles",
+		"text": "The most popular motorcycle models. We take into account all your wishes. There are ready-made options."
+	},
+	{
+		"category": "online",
+		"name": "tuning and accessories",
+		"text": "Large selection of details. Custom solutions. Manufacturer's warranty. Quality certificate."
+	},
+	{
+		"category": "Workshop",
+		"name": "Repair and service",
+		"text": "We will service your motorcycle. Help in installing parts. Custom solutions. High quality and guarantee for the work performed."
+	}
+]
